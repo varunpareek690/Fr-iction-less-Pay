@@ -1,0 +1,14 @@
+/* UserInvoice.css */
+.invoices-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px; /* Adjust the gap between cards as needed */
+  }
+  
+  .card {
+    max-width: 300px;
+    width: 100%;
+  }
+  
+
+  
